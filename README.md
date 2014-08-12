@@ -1,4 +1,4 @@
-bradleyscollins.github.com
+bradleyscollins.github.io
 ==========================
 
 Bradley S. Collins
